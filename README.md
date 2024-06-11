@@ -9,7 +9,7 @@ Reward System: Rewards attacking cows and penalizes picking up cowhides.
 Epsilon Decay: Ensures the bot transitions from exploring different actions to exploiting the most rewarding actions over time.
 Logging and Monitoring: Detailed logging to track actions, rewards, Q-value updates, and epsilon decay.
 
-Technical Details
+#Technical Details
 Languages and Tools: Developed in Java using the DreamBot API.
 Q-Table Storage: Saves and loads Q-values to persist learning across sessions.
 Adaptive Behavior: The bot learns from interactions, adjusting its behavior to optimize for long-term rewards.
